@@ -1,14 +1,12 @@
 /*
-* Lab 2: 4-Digit Summation Program uses int/string variables, functions, 
+* 4-Digit Summation Program uses int/string variables, functions, 
 * and a class to read user input, calculate multiple sums with an algorithm, 
 * printing the results to the console. 
 * 
 * A version without classes/custom functions is included at the bottom.
 * 
 * Forrest Moulin
-* CMPSC 121
-* Dr. Barry Brinkman
-* September 4, 2022
+* September 2022
 */
 
 #include <iostream> // Input output stream (cin, cout)
