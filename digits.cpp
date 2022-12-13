@@ -100,7 +100,7 @@ int main()
 }
 /*
 * CONSOLE OUTPUT
-* Lab 2: 4-Digit Summation Program
+* 4-Digit Summation Program
 * By Forrest Moulin
 *
 * Please enter a four-digit whole number:
