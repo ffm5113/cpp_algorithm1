@@ -116,9 +116,6 @@ int main()
 *
 * String used to calculate Sum 3: 0010
 * Sum 3 is the sum of the four digits: 0 + 0 + 1 + 0, which equals 1.
-*
-* C:\Users\Forrest\cmpsc121\homework\Lab3-Digits\x64\Debug\Lab3-Digits.exe 
-* (process 20996) exited with code 0.
 */
 
 //#include <iostream> // Input output stream (cin, cout)
